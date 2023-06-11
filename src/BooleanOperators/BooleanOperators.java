@@ -9,7 +9,7 @@ public class BooleanOperators {
         boolean a = 2 <= 2 && !true;
         System.out.println(a);
 
-        //[A] results false because while (2 <= 2) is true, !true is false, giving a false result.
+        //The result is false because while (2 <= 2) is true, !true is false, giving a false result.
 
         //[B]:
         boolean b = !false && 3 > 2;
