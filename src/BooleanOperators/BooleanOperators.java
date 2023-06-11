@@ -29,6 +29,6 @@ public class BooleanOperators {
         System.out.println(d);
 
         //The operator "^" will result true in the case of both result being different from each other.
-        //In this case it will result false
+        //In this case it will result false.
     }
 }
