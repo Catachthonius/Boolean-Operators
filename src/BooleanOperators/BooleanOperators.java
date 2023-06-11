@@ -6,7 +6,6 @@ public class BooleanOperators {
         //Then compare your solutions with a Java program that tests the validity of your assumptions.
 
         //[A]:
-
         boolean a = 2 <= 2 && !true;
         System.out.println(a);
 
@@ -19,7 +18,6 @@ public class BooleanOperators {
         //!false means true and since 3 > 2 is true, the result will be true.
 
         //[C]:
-
         boolean t = false;
         boolean f = true;
         System.out.println(!(!t) || f);
@@ -27,7 +25,6 @@ public class BooleanOperators {
         //Both booleans will become true.
 
         //[D]:
-
         boolean d = 6 > 6 ^ !(true && true);
         System.out.println(d);
 
